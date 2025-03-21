@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ferdy</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains&pause=1000&color=0C0950&center=false&width=435&lines=I'm+Ferdy+MohamadFirdaus;This+is..;My+Github)](https://git.io/typing-svg)
+
+---
+
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on **Flutter Apps**
+- 🌱 I’m learning **Next.js and Laravel**
+- 💬 Ask me about **Flutter**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kzuferdy-0749b41b7)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -10,15 +17,6 @@
 <p align="center">
   <img src="https://github.com/kzuferdy/kzuferdy/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
-
----
-
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Flutter Apps**
-- 🌱 I’m learning **Next.js and Laravel**
-- 💬 Ask me about **Flutter**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kzuferdy-0749b41b7)
 
 ---
 
