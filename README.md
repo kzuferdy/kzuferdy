@@ -6,6 +6,13 @@
 </p>
 
 ---
+### 🐍 GitHub Contribution Snake:
+<p align="center">
+  <img src="https://github.com/kzuferdy/kzuferdy/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+---
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **Flutter Apps**
