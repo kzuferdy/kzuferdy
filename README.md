@@ -26,6 +26,12 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![npm](https://img.shields.io/badge/npm-%E2%89%A5%20v7-red)
+![Git](https://img.shields.io/badge/git-%E2%89%A5%20v2.29-black)
+![VSCode](https://img.shields.io/badge/VSCode-%E2%89%A5%20v1.58-blue)
+
+
+
 
 ---
 
