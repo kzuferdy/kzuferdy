@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Flutter Apps**
 - 🌱 I’m learning **Next.js and Laravel**
 - 💬 Ask me about **Flutter**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kzuferdy-0749b41b7/)
+- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kzuferdy-0749b41b7/])
 
 ---
 
