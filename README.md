@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently work in **ID Solutions**
-- 🌱 I’m learning **Next.js and Laravel**
+- 👀 I’m Flutter Developer
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kzuferdy-0749b41b7)
 
