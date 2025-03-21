@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains&pause=1000&color=5F99AE&center=false&width=435&lines=I'm+Ferdy+Mohamad+Firdaus;This+is..;My+Github)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Flutter Apps**
+- 🔭 I’m currently work in **ID Solutions**
 - 🌱 I’m learning **Next.js and Laravel**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kzuferdy-0749b41b7)
