@@ -36,10 +36,12 @@
 ---
 
 ### 📊 GitHub Stats:
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kzuferdy?cardType=level&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kzuferdy&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzuferdy&layout=compact&theme=radical" width="400"/>
 </p>
+
 
 ---
 
