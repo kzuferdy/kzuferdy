@@ -51,6 +51,9 @@
 
 ---
 
+[![Generate Snake](https://github.com/kzuferdy/kzuferdy/actions/workflows/snake.yml/badge.svg)](https://github.com/kzuferdy/kzuferdy/actions/workflows/snake.yml)
+
+
 ### 📫 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/kzuferdy-0749b41b7/">
