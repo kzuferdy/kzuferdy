@@ -48,7 +48,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kzuferdy&theme=radical" />
 </p>
 
-
 ---
 
 [![Generate Snake](https://github.com/kzuferdy/kzuferdy/actions/workflows/snake.yml/badge.svg)](https://github.com/kzuferdy/kzuferdy/actions/workflows/snake.yml)
