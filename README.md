@@ -40,7 +40,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzuferdy&layout=compact&theme=radical" width="400"/>
 
 
-
 ---
 
 ### 🏆 GitHub Trophies:
