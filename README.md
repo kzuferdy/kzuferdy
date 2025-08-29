@@ -43,7 +43,9 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kzuferdy&theme=radical" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kzuferdy&theme=radical&column=7&margin-w=15&margin-h=15" alt="kzuferdy's GitHub Trophies"/>
+  </a>
 </p>
 
 ---
