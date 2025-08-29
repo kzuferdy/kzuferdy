@@ -27,10 +27,13 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000C0E?style=for-the-badge&logo=npm&logoColor=red)
 ![Git](https://img.shields.io/badge/Git-%23F14E32?style=for-the-badge&logo=git&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+
 
 
 ---
