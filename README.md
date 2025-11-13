@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains&pause=1000&color=5F99AE&center=false&width=435&lines=I'm+Ferdy+Mohamad+Firdaus;This+is..;My+Github)](https://git.io/typing-svg)
 
 
-
-
 ### 👨‍💻 About Me:
 - 🔭 I’m currently Free
 - 👀 I’m Flutter Developer
