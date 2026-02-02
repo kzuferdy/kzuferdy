@@ -2,7 +2,6 @@
 
 
 
-
 ### 👨‍💻 About Me:
 - 🔭 I’m currently Free
 - 👀 I’m Flutter Developer
